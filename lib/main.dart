@@ -7,7 +7,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: "時間割チャット",
-
+      home: HomeScreen(),
     );
   }
 }
